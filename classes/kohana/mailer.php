@@ -4,7 +4,7 @@
  *
  * @author  Marcin Klawitter <marcin.klawitter@gmail.com>
  */
-class Mailer
+class Kohana_Mailer
 {
     /**
      * Find and include phpMailer library
