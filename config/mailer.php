@@ -17,7 +17,4 @@ return array(
         'mail' => 'no-reply@example.com',
         'name' => 'Mailer module',
     ),
-
-    // Email package limit
-    'limit' => 200,
 );
